@@ -44,7 +44,7 @@ Will generate report for testing. In directory `app/build/reports/tests`
 
 * Android Support libraries
 * [Retrofit 2](http://square.github.io/retrofit/) - For Networking
-* [RxJava](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Better coding
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin) and [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Better coding
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Used to View Injection
 * [Timber](https://github.com/JakeWharton/timber) - For better logging
 
