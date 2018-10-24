@@ -3,7 +3,7 @@ package com.dafian.android.mhwmobile.data.entity
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
 
-class Weapon {
+class Skill {
 
     @SerializedName("id")
     @Expose
@@ -11,13 +11,16 @@ class Weapon {
     @SerializedName("slug")
     @Expose
     var slug: String? = null
-    @SerializedName("name")
+    @SerializedName("level")
     @Expose
-    var name: String? = null
-    @SerializedName("type")
+    var level: Int? = null
+    @SerializedName("description")
     @Expose
-    var type: String? = null
-    @SerializedName("assets")
+    var description: String? = null
+    @SerializedName("skill")
     @Expose
-    var assets: Asset? = null
+    var skill: Int? = null
+    @SerializedName("skillName")
+    @Expose
+    var skillName: String? = null
 }

@@ -1,6 +1,8 @@
 package com.dafian.android.mhwmobile.config;
 
-public class DataType {
+public class Constant {
+
+    public static final String BASE_URL ="https://mhw-db.com";
 
     public class ElementType {
 
