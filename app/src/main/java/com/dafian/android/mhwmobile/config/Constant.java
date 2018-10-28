@@ -2,7 +2,7 @@ package com.dafian.android.mhwmobile.config;
 
 public class Constant {
 
-    public static final String BASE_URL ="https://mhw-db.com";
+    public static final String BASE_URL = "https://mhw-db.com";
 
     public class ElementType {
 
@@ -35,7 +35,7 @@ public class Constant {
         public static final String BOW = "bow";
     }
 
-    public class  ArmorType {
+    public class ArmorType {
 
         public static final String HEAD = "head";
         public static final String CHEST = "chest";

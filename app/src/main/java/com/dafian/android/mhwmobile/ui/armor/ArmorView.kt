@@ -5,5 +5,5 @@ import com.dafian.android.mhwmobile.data.entity.Armor
 
 interface ArmorView : BaseView {
 
-    fun showArmorAll (armorList: List<Armor>)
+    fun showArmorAll(armorList: List<Armor>)
 }
